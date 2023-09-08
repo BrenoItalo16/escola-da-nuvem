@@ -1,0 +1,28 @@
+.texto {
+    font-size: 100px;
+    font-weight: 500;
+    color: #CCC;
+}
+
+.texto2 {
+    font-size: 30px;
+    font-weight: 500;
+    color: #DDD;
+}
+
+.cartao {
+    padding-bottom: 200;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+    color: #000;
+}
+
+#back-white {
+    /* color: #dddddd; */
+    background-color: #EEE;
+}
+
+.card-title {
+    font-weight: 700;
+}
